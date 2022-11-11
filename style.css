@@ -1,0 +1,40 @@
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+body{
+background: #eee;
+font-family: "Trebuchet MS",Helvetica,sans-serif;
+}
+.container{
+width: 96%;
+margin: 20px auto;
+}
+h1{
+font-family: Tahoma, Geneva, sans-serif;
+text-transform: uppercase; 
+border-left: 5px solid #1abc9c;
+margin: 10px;
+}
+.book{
+width: 48%;
+float: left;
+background: #fff;
+margin: 5px;
+padding: 10px;
+}
+.icon{
+width: 15%;
+float: left;
+line-height: 20px;
+}
+.button{
+background: #ff0000;
+border-radius: 7px;
+padding: 6px 6px;
+color: #fff;
+float: right;
+cursor: pointer;
+}
+
